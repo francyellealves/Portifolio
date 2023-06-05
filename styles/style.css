@@ -33,11 +33,11 @@ body{
 }
 
 .cabecalho__menu__link{
-    font-family: var(--fonte-secundaria)
+    font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
-    text-decoration:none ;
+    text-decoration:none;
 
 }
 
@@ -78,7 +78,7 @@ body{
     gap: 32px;
 }
 .apresentacao__links__subtitulo{
-    font-family:var(--fonte-primaria)
+    font-family:var(--fonte-primaria);
     font-weight: 400;
     font-size: 1.5rem;
 }
@@ -114,7 +114,7 @@ background-color: var(--cor-hover);
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
-    font-family: var(--fonte-secundaria)
+    font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
 
